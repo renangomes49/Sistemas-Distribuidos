@@ -1,0 +1,11 @@
+Quantidade de Pessoas na lista: 10
+Nome Pessoa: Pedro Viana Andrade, Quantidade de bytes utilizados para gravar o nome da pessoa: 19, CPF da Pessoa: 000.000.000-00 Idade da Pessoa: 18;
+Nome Pessoa: Henrique Souza Moraes, Quantidade de bytes utilizados para gravar o nome da pessoa: 21, CPF da Pessoa: 000.000.000-00 Idade da Pessoa: 19;
+Nome Pessoa: Fernando Oliveira, Quantidade de bytes utilizados para gravar o nome da pessoa: 17, CPF da Pessoa: 000.000.000-00 Idade da Pessoa: 20;
+Nome Pessoa: Ítalo Coelho, Quantidade de bytes utilizados para gravar o nome da pessoa: 12, CPF da Pessoa: 000.000.000-00 Idade da Pessoa: 21;
+Nome Pessoa: João Fernandes, Quantidade de bytes utilizados para gravar o nome da pessoa: 14, CPF da Pessoa: 000.000.000-00 Idade da Pessoa: 22;
+Nome Pessoa: Mateus Soares de Almeida, Quantidade de bytes utilizados para gravar o nome da pessoa: 24, CPF da Pessoa: 000.000.000-00 Idade da Pessoa: 23;
+Nome Pessoa: Savio Neto, Quantidade de bytes utilizados para gravar o nome da pessoa: 10, CPF da Pessoa: 000.000.000-00 Idade da Pessoa: 24;
+Nome Pessoa: Ruan Pablo Salgueiro, Quantidade de bytes utilizados para gravar o nome da pessoa: 20, CPF da Pessoa: 000.000.000-00 Idade da Pessoa: 25;
+Nome Pessoa: Carlos Vieira, Quantidade de bytes utilizados para gravar o nome da pessoa: 13, CPF da Pessoa: 000.000.000-00 Idade da Pessoa: 26;
+Nome Pessoa: Plinio Gonçalves Carneiro, Quantidade de bytes utilizados para gravar o nome da pessoa: 25, CPF da Pessoa: 000.000.000-00 Idade da Pessoa: 27;
