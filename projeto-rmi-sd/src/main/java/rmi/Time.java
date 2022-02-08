@@ -1,0 +1,83 @@
+package rmi;
+
+import java.io.Serializable;
+import java.util.ArrayList;
+import java.util.List;
+
+public class Time implements Serializable{
+
+	private static final long serialVersionUID = 1L;
+
+	private String nome;
+	private String estadio;
+	private String localizacao;
+
+	private Tecnico tecnico = null;
+
+	private List<Jogador> jogadores = new ArrayList<Jogador>();
+
+	private List<SocioTorcedor> socioTorcedores = new ArrayList<SocioTorcedor>();
+	
+	public Time(String nome, String estadio, String localizacao) {
+		this.nome = nome;
+		this.estadio = estadio;
+		this.localizacao = localizacao;
+	}
+
+	public String getNome() {
+		return nome;
+	}
+
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+
+	public String getEstadio() {
+		return estadio;
+	}
+
+	public void setEstadio(String estadio) {
+		this.estadio = estadio;
+	}
+
+	public String getLocalizacao() {
+		return localizacao;
+	}
+
+	public void setLocalizacao(String localizacao) {
+		this.localizacao = localizacao;
+	}
+
+	public Tecnico getTecnico() {
+		return tecnico;
+	}
+
+	public void setTecnico(Tecnico tecnico) {
+		this.tecnico = tecnico;
+	}
+
+	public List<Jogador> getJogadores() {
+		return jogadores;
+	}
+
+	public void setJogadores(List<Jogador> jogadores) {
+		this.jogadores = jogadores;
+	}
+
+	public List<SocioTorcedor> getSocioTorcedores() {
+		return socioTorcedores;
+	}
+
+	public void setSocioTorcedores(List<SocioTorcedor> socioTorcedores) {
+		this.socioTorcedores = socioTorcedores;
+	}
+
+	@Override
+	public String toString() {
+		return "Time [nome=" + nome + ", estadio=" + estadio + ", localizacao=" + localizacao + "]";
+	}
+	
+
+	
+
+}
